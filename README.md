@@ -7,5 +7,5 @@ in the classpath and run GuiLife.class
 
 something like this will work:
 
- 	java -cp /home/crsid/world.jar:. \
+ 	java -cp world.jar:. \
 	bin/uk/ac/cam/ga354/tick7/GuiLife
